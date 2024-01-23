@@ -7,3 +7,4 @@
 !
 
 proxer.me###stream_message_overlay
+mydealz.de##.imgFrame-overlay--nsfw
